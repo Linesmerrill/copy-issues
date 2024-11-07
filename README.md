@@ -4,5 +4,10 @@ Easily copy issues from one repo to another. This can be beneficial if you are m
 
 ## How to run
 
-`pip install requests`
-`python3 issue-auto.py`
+```
+pip install requests
+```
+
+```
+python3 issue-auto.py
+```
